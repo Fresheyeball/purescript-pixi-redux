@@ -1,0 +1,29 @@
+{
+  "name": "purescript-context",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "**/*Test.purs",
+    "node_modules",
+    "bower_components",
+    "tests",
+    "example",
+    "tmp"
+  ],
+  "version": "0.0.3",
+  "devDependencies": {
+    "purescript-mocha": "~0.0.3",
+    "purescript-chai": "~0.0.3",
+    "purescript-oo-ffi": "~0.0.3"
+  },
+  "homepage": "https://github.com/Fresheyeball/purescript-context",
+  "_release": "0.0.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "v0.0.3",
+    "commit": "902b2b0f16e320ccf51cdd6a93bbc2da5648c045"
+  },
+  "_source": "git://github.com/Fresheyeball/purescript-context.git",
+  "_target": "~0.0.3",
+  "_originalSource": "purescript-context"
+}

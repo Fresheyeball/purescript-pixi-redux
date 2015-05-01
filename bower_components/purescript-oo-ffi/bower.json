@@ -1,0 +1,24 @@
+{
+  "name": "purescript-oo-ffi",
+  "version": "0.0.6",
+  "homepage": "https://github.com/CapillarySoftware/purescript-oo-ffi",
+  "authors": [
+    "Isaac Shapira <fresheyeball@gmail.com>"
+  ],
+  "description": "FFI Helpers for binding to OO",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests"
+  ],
+  "devDependencies": {
+    "purescript-mocha": "~0.0.3",
+    "purescript-chai": "~0.0.3",
+    "purescript-quickcheck": "~0.4.0"
+  },
+  "dependencies": {
+    "purescript-context": "~0.0.3"
+  }
+}

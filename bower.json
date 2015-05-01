@@ -1,0 +1,17 @@
+{
+  "name": "purescript-pixi-redux",
+  "version": "1.0.0",
+  "moduleType": [
+    "node"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "output"
+  ],
+  "dependencies": {
+    "pixi.js": "~3.0.2",
+    "purescript-oo-ffi": "~0.0.6"
+  }
+}
